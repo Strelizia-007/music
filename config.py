@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "29922662"))
 API_HASH = getenv("API_HASH", "fabd9f89368de7cc31357522a0089a56")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "2007532918:AAGY19hJZ9voMcUzra2JamqJqs5_wc8Rv3w")
+BOT_TOKEN = getenv("BOT_TOKEN", "6672385958:AAHhRjtPPxQc9ZwCZDf8enRNnOnnUZ4Ek1k")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Bikash:Bikashop@bikash.cbkkx4c.mongodb.net/?retryWrites=true&w=majority")
@@ -19,10 +19,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Bikash:Bikashop@bikash.cbkk
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 62949449860))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1001696127730"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002116542152"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 1745047302))
+OWNER_ID = int(getenv("OWNER_ID", 6047510747))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,7 +39,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bdsjshg63y")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/cvlinkz")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gdjsgb6339")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQHIlWYAvFg2nM-bese1DtnUHo4_2WP6vre4GO98bbNZIG7rxpNfAh2ropIXwDVNXL_x0-Sxh9-IYqHoNmDqLsdJL92OcgeFeoPeIO4viMFI0UyHnCViNfRIoLWQc6-77SE02CPEo1GQKgdAxqOmxgwhdde9sYYLKeLoVbslBKODSSW-jVCrVQV2Y5e86qUg_wem7I9DARhKvYRZe0-DLoBGwYXcmCHUH08f-DCU8zsdU9p3lyU5VdRyIoYM0syTNAiNKphzrrPd8NyucaaXMLbzt0bwgP-BlvFHeFMSxHOVBOE-k9DeKSc5aQ97pejKgoaW5LY7ocKmSO6egS1RUEOpD0qn1QAAAAFodbDbAA")
+STRING1 = getenv("STRING_SESSION", "BQBlBywAhWqlfX4IXBmnIpVGizfBgIqg2SkIitpWEy8IMlVXL7oq5iM6qMusjrKdBEsOlPZj2KoKFbwmgGIjlCmjTHg_jp7ubDs-v-0qNJ2eIwrTtKNZB2CVJWbLoD6S-0e5XPsqXLVG4PkffsyUNBZXxnlyP-6sQFmYqewPwgJlzWxEESzK_n_jKw5XbfSvoGJjj9bl2G9ls9bfBzeJoxalLa2-BSUgITLVHM3VdcHwemnFdhyuKfroMmoOCONtJ9sQyitt-TilEUsTtHcZLSYgrgrL5RxuFOJYa2qUpjIKGBGnSIZ0C9VKxVlC7i_hAmxXeDQbym1WJ4s35BOu8BuT4xfqYgAAAAGZvkloAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
